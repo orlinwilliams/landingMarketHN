@@ -7,8 +7,11 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-  <meta name="description" content= "compra venta anuncios honduras" />
-  <meta name="robots" content= "index, follow">
+  <meta property="og:url"           content="https://markethn.herokuapp.com/" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="MarketHN" />
+  <meta property="og:description"   content="publicar anuncios en Honduras" />
+  <meta property="og:image"         content="https://markethn.herokuapp.com/images/logo2.jpg" />
   <title>Inicio | MarketHN</title>
   <!-- Favicon-->
   <link rel="icon" href="favicon.ico" type="image/x-icon">
